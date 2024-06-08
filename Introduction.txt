@@ -1,0 +1,27 @@
+******************** PYTHON *********************
+python is high level , interpreted progrmming language know for its simplicity 
+and readability , making its one of the most popular programming language for beginners and 
+professionals .
+
+
+Important Note : I strongly believe that after this course you have strong foundation 
+                 in python ...
+No one can teach you like this .....its best resources for beginners and experiance peoples ..
+
+SOME FEATURES OF PYTHON 
+
+1) Easy of learning and use 
+2) interpreted language - means code is exicuted line-by-line
+3) Versatile and powerful -python support multiple languages  including , object oriented programming 
+                           and functional programming.
+                           It is used in varity of applications  from web devlopement  and data science 
+                            to artificial inteligence and atomation .
+
+4) Rich standard library - python comes with comprehensive library support that include 
+                          modules and packages ..
+5)devlopement tools 
+6) atomation and scripting 
+7) cross- platform -means run on varios operating systems like windows , linux  , macOS etc.
+
+In this course i will cover all the important topics to get start with python 
+    LET'S DEEP DIVE into python ......................!!!!!!!!!!!!!!!!!!!!!!!!!
